@@ -17,6 +17,10 @@
         align-items: center;
     }
 
+    .home .container-foto img {
+        max-width: 350px;
+    }
+
     .projetos .container-projetos {
         padding: 0 30px;
     }
@@ -29,6 +33,10 @@
 
     .home .info p {
         font-size: 6px;
+    }
+
+    .home .container-foto img {
+        max-width: 250px;
     }
 
     .home .container-projetos img {
